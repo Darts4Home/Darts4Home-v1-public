@@ -25,7 +25,7 @@ Füge ggf. Screenshots hier ein, um das Problem zu verdeutlichen.
 
 **Hard- und Software:**
  - Betriebssystem: [z.B. Windows 10]
- - Darts4Home-Version: [z.B. 1.0.6.1]
+ - Darts4Home-Version: [z.B. 1.0.1.6]
  - Controller: [z.B. D4F, Windart xxx]
  - ggf. Controller-Version:
  - Dartboard: [z.B. Granboard, Autodarts, etc.] 
